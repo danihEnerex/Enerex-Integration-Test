@@ -9,10 +9,10 @@ The goal for this exercise is to consume the backend api by developing a react a
    Name = "TestUser2", Email = "testUser2@gmail.com", Password = "800008" <br>
    Name = "TestUser3", Email = "testUser3@gmail.com", Password = "200002" <br>
 
-2. Once token is obtained this should be used for the communication with each one of the CRUD endpoints in the api allowing:
-   2.1 Display students information on a grid. 
-   2.2 Students grid should allow deletion and update actions for each student.
-   2.3 Create a view that allows the user to insert new students.
+2. Once token is obtained this should be used for the communication with each one of the CRUD endpoints in the api allowing: <br>
+   2.1 Display students information on a grid. <br>
+   2.2 Students grid should allow deletion and update actions for each student. <br>
+   2.3 Create a view that allows the user to insert new students. <br>
 
 # Additional Information
 
