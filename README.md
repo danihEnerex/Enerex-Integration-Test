@@ -11,3 +11,8 @@ The goal for this excersise is to integrate with this API using provided react t
 3. Students information should be displayed on a grid.
 4. Students had to be deleted and updated.
 5. Create a view that allow the user to create new students.
+
+
+
+** API communication can be tested again the version inside the compile solution, c# code can be consulted to review the swagger.
+** Postman collection is also included to review endpoints. You will need to update the base url to the one configured on your local machine.
