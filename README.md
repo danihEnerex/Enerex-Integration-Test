@@ -9,15 +9,15 @@ The goal for this exercise is to consume the backend api by developing a react a
    Name = "TestUser2", Email = "testUser2@gmail.com", Password = "800008" <br>
    Name = "TestUser3", Email = "testUser3@gmail.com", Password = "200002" <br>
 
-2. Once token is obtained this should be used for the communication with the CRUD endpoints in the api
-3. Students information should be displayed on a grid.
-4. Students had to be deleted and updated.
-5. Create a view that allow the user to create new students.
+2. Once token is obtained this should be used for the communication with each one of the CRUD endpoints in the api allowing:
+   2.1 Display students information on a grid. 
+   2.2 Students grid should allow deletion and update actions for each student.
+   2.3 Create a view that allows the user to insert new students.
 
 # Additional Information
 
-** API communication can be tested again the version inside the compile solution, c# code can be consulted to review the swagger.
-** Postman collection is also included to review endpoints. You will need to update the base url to the one configured on your local machine.
+** API communication can be tested again the version inside the compile solution, c# code can be consulted to review the swagger. <br>
+** Postman collection is also included to review endpoints. You will need to update the base url to the one configured on your local machine. <br>
 
 # Once completed
 
