@@ -4,7 +4,7 @@ The goal for this exercise is to consume the backend api by developing a react a
 
 # Implementation
 
-1. Create a login and authenticate using one of the testing users available in the in memory collection:
+1. Create a login form and authenticate using one of the testing users available in the in memory collection: <br>
    Name = "TestUser1", Email = "testUser1@gmail.com", Password = "123456" <br>
    Name = "TestUser2", Email = "testUser2@gmail.com", Password = "800008" <br>
    Name = "TestUser3", Email = "testUser3@gmail.com", Password = "200002" <br>
