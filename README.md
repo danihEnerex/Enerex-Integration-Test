@@ -1,6 +1,6 @@
 # Enerex-Integration-Test
 
-The goal for this exercise is to consume the backend api by developing a react app using the provided template
+The goal for this exercise is to consume the backend api by developing a react app using the provided template on the file `enerex-integration-test-react-template.zip`
 
 # Implementation
 
