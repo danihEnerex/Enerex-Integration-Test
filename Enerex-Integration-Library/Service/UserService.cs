@@ -24,7 +24,7 @@ namespace Enerex_Integration_Library.Service
 
         public async Task<User?> GetUser(User user)
         {
-            var toReturn = new User();
+            User? toReturn = null;
 
             if (user != null)
             {
