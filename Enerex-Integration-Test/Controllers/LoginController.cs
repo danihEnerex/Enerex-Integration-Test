@@ -28,7 +28,7 @@ namespace Enerex_Integration_Test.Controllers
 
             if (member == null)
             {
-                return NotFound();
+                return Unauthorized();
             }
 
             var token = _jwtProvider.Generate(member);

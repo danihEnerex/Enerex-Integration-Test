@@ -31,7 +31,7 @@ namespace Enerex_Integration_Test.Controllers
         }
 
         [Authorize]
-        [HttpPost("{studentId}")]
+        [HttpPut("{studentId}")]
         public async Task<IActionResult> UpdateStudent(int studentId, Student student)
         {
             await _studentService.UpdateStudent(studentId,student);
@@ -39,7 +39,7 @@ namespace Enerex_Integration_Test.Controllers
         }
 
         [Authorize]
-        [HttpPost("{studentId}")]
+        [HttpDelete("{studentId}")]
         public async Task<IActionResult> DeleteStudent(int studentId)
         {
             await _studentService.DeleteStudent(studentId);
